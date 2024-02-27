@@ -33,7 +33,7 @@ This project focuses on understanding the factors contributing to diabetes and d
 - Instructions:
     - Clone this repository.
     - Download the data from the UCI Machine Learning Repository and place it in the data folder.
-    - Install dependencies: pip install pandas scikit-learn matplotlib seaborn
+    - Install dependencies: pip install pandas matplotlib seaborn
     - Run the main analysis script: python main.py (Replace "main.py" with the script name).
 
 
